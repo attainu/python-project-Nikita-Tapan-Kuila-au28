@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "CabBooking-1",
+			"path": "..\\CabBooking-1"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
